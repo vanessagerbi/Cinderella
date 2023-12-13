@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/OutsideCinderellaCastle.unity
+    guid: 348d1166241a6e24dbe5b6d2e9eba794
+  - enabled: 1
+    path: Assets/Scenes/InsideCinderellaCastle.unity
+    guid: 133ba0afbeb042640bc3cf92047f3092
   m_configObjects: {}
